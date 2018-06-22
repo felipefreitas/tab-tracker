@@ -1,0 +1,19 @@
+{
+  "name": "tab-tracker",
+  "version": "1.0.0",
+  "description": "Vue.js with Express.js application for keeping track of guitar tabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipefreitas/tab-tracker.git"
+  },
+  "author": "Felipe Freitas <felipesafreitas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felipefreitas/tab-tracker/issues"
+  },
+  "homepage": "https://github.com/felipefreitas/tab-tracker#readme"
+}
