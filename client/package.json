@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/felipefreitas/tab-tracker/issues"
   },
-  "homepage": "https://github.com/felipefreitas/tab-tracker#readme"
+  "homepage": "https://github.com/felipefreitas/tab-tracker#readme",
+  "dependencies": {
+    "vue": "^2.5.16",
+    "vue-router": "^3.0.1"
+  }
 }
